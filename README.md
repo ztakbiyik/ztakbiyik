@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Looking to play the cooler Guess Who? [Here you go!](https://mysterycards.netlify.app/)
+
+Looking to reach me? [Send an email!](mailto:zeyneptunaakbiyik@gmail.com)
+
+Looking for the code? Scroll down :)
+
 <!--
 **ztakbiyik/ztakbiyik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
