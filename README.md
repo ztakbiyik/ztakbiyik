@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Looking to play the cooler Guess Who? [Here you go!](https://mysterycards.netlify.app/)
+Looking to play Rephrase? [Click here!](https://re-phrase.netlify.app)
 
 Looking to reach me? [Send an email!](mailto:zeyneptunaakbiyik@gmail.com)
 
